@@ -1,0 +1,5 @@
+interface Pagavel {
+    
+    double getPagamento();
+    
+}
