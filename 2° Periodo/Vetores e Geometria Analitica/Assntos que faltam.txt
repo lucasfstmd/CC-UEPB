@@ -1,0 +1,12 @@
+Vetrores, aprender
+
+1° - Equações paramétricas e cartesiana da reta.
+2° - Ângulo entre retas; distância de um ponto a uma reta; equações da circunferência.
+3° - Rotação de eixos coordenados
+4° - Sistema de coordenadas no espaço
+5° - Sistema de coordenadas no espaço; distância entre dois pontos; esfera
+6° - Distância entre dois pontos; esfera; vetores no espaço; operações envolvendo vetores; produto vetorial.
+7° - Interpretação geométrica do produto vetorial.
+8° - Produto misto (volume de um paralelepípedo); equação do plano.
+9° - Equação do plano; equações paramétricas do plano.
+10° - Equações paramétricas da reta; intersecção de planos.
